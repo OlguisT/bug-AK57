@@ -10,3 +10,6 @@ git push origin master produccion
 https://github.com/OlguisT/bug-AK57
 
 
+paso 1: consultar el kernel instalado
+paso 2: escribir lsb_release -a "
+
